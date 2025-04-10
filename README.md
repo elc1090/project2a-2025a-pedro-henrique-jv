@@ -2,7 +2,7 @@
 
 #### Deploy
 
-[](https://elc1090.github.io/project2a-2025a-pedro-henrique-jv/)
+[Acesse aqui](https://elc1090.github.io/project2a-2025a-pedro-henrique-jv/)
 
 #### Desenvolvedor(a)
 
@@ -14,8 +14,8 @@ Pedro H. Jovanowichs
 
 #### Créditos
 
-- [](https://docs.github.com/rest)
-- [](https://chatgpt.com/)
+[GitHub REST API Docs](https://docs.github.com/rest)  
+[ChatGPT](https://chatgpt.com/)
 
 #### Bastidores
 
